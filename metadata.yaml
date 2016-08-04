@@ -1,0 +1,32 @@
+_repo: Chaucer_3624
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ward, Adolphus William, Sir
+    alias: Ward, A. W., Sir
+    birthdate: 1837
+    deathdate: 1924
+    gutenberg_agent_id: '1242'
+    url: http://www.gutenberg.org/2009/agents/1242
+    wikipedia: http://en.wikipedia.org/wiki/Adolphus_William_Ward
+description: The Canterbury Tales of Geoffrey Chaucer (1343-1400) represent one of
+  the foundations of English literature. For this 1879 entry in the influential English
+  Men of Letters" series of literary biographies, the distinguished critic Adolphus
+  Ward placed Chaucer's life and work in the context of his tempestuous times, which
+  included the Black Death.
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: English Men of Letters
+subjects:
+- !lcsh 'Poets, English -- Middle English, 1100-1500 -- Biography'
+- !lcc 'PR'
+- !lcsh 'Chaucer, Geoffrey, -1400'
+- GITenberg
+title: Chaucer
+url: http://www.gutenberg.org/ebooks/3624
