@@ -1,5 +1,8 @@
 _repo: Chaucer_3624
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ward, Adolphus William, Sir
@@ -14,6 +17,8 @@ description: The Canterbury Tales of Geoffrey Chaucer (1343-1400) represent one 
   Men of Letters" series of literary biographies, the distinguished critic Adolphus
   Ward placed Chaucer's life and work in the context of his tempestuous times, which
   included the Black Death.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3624#Chaucer
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
 identifiers:
